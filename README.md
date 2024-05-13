@@ -46,4 +46,7 @@ Special thanks to Linagora for inspiring me to work on this subject.
 Thanks to OpenAI for providing the GPT models used in this project.
 The sentence-transformers library, which facilitated the embedding and clustering of text.
 
+## Author
+Nizar ZEROUALE
+
 
