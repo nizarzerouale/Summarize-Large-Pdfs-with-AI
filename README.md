@@ -25,7 +25,6 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/pdf-text-summarization.git
-cd pdf-text-summarization
 ```
 ### Usage
 Run the script with:
