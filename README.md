@@ -42,10 +42,9 @@ The script processes the PDF by extracting text, segmenting and clustering the t
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests. You can also open issues to discuss potential improvements or report bugs.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Acknowledgments
+Special thanks to Linagora for inspiring me to work on this subject.
 Thanks to OpenAI for providing the GPT models used in this project.
 The sentence-transformers library, which facilitated the embedding and clustering of text.
+
 
