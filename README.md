@@ -24,7 +24,7 @@ You will also need access to OpenAI's API and set your API key in the environmen
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/pdf-text-summarization.git
+git clone https://github.com/nizarzerouale/Summarize-Large-Pdfs-with-AI
 ```
 ### Usage
 Run the script with:
